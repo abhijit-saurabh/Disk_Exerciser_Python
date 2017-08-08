@@ -1,0 +1,19 @@
+python trimio.py /dev/nvme4n1 -wl0 0x1100 -nb128 -bs4 0xdd
+ Disk running :  nvme4n1
+
+ Starting LBA :  0x0000
+
+ Number of Blocks :  381548
+
+ Block Size :  4
+
+ Patter Used :  ee   in hex
+
+ 
+ IO started at  2017-06-05 16:39:05.502902
+
+ 
+ enter s to stop:  s
+
+ IO Finished 
+
